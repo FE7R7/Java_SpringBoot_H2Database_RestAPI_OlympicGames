@@ -24,13 +24,13 @@ Talking about the main objective of the Olympic Games Application project, which
 
 Having access to data means being able to consult the data as a whole or to consult specific data contained in the database. Being able to add new information to the database or even to delete any data.
 
-The tools involved in the project are:
+The technologies involved in the project are:
 
 Eclipse IDE
 Java Language
 Spring Boot micro-service-based Java web framework offered by Spring
 Web browser
-Postman Application to allow us to test our Web API
+Postman Application to allow us to send requesting and test the Web API.
 
 
 Using Spring Initializr to configure our Java Maven project and inject three dependencies into our POM file:
