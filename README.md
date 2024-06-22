@@ -1,4 +1,4 @@
-# Java_SpringBoot_H2Database_OlympicGames
+# Java_SpringBoot_H2Database_RestAPI_OlympicGames
 
 The objective of the Olympic Games Application project is to build a REST API based Web Application that allows the user to access information stored in a relational database.
 
