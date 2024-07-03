@@ -26,18 +26,18 @@ Having access to data means being able to consult the data as a whole or to cons
 
 The technologies involved in the project are:
 
-Eclipse IDE
-Java Language
-Spring Boot micro-service-based Java web framework offered by Spring
-Web browser
-Postman Application to allow us to send requesting and test the Web API.
+Eclipse IDE,
+Java Language,
+Spring Boot micro-service-based Java web framework offered by Spring,
+Web browser,
+Postman API to allow us to send requesting and test the Web API.
 
 
 Using Spring Initializr to configure our Java Maven project and inject three dependencies into our POM file:
 
-Spring Web - Contains common web specific utilities
-Spring Data JPA(SQL) - Java Persistence API to help with the implementation of data access layers
-H2 Database(SQL) - For managing our relational database
+Spring Web - Contains common web specific utilities,
+Spring Data JPA(SQL) - Java Persistence API to help with the implementation of data access layers,
+H2 Database(SQL) - For managing our relational database,
 
 ------------------------------------------------ // ------------------------------------------------
 
